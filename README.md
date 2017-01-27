@@ -12,6 +12,15 @@ If you want to have the vacation or "public holidays" -or something else- marked
 
 __Note:__ After entering the period, the calendar has to be updated again. Best way: change the year.
 
+# Español
+Su uso es sencillo.
+
+En el **célula A1** es el año. Cambiar este año y el botón <<ENTER>>. Los cambios en el calendario de acuerdo con las revelaciones
+
+Si usted quiere tener los días festivos o vacaciones marcados en color, por lo que puede especificar en carpeta "Urlaubstage". Este período se mostrará automáticamente en el calendario.
+
+__Nota:__ Después de introducir los datos, el calendario tiene que ser actualizado una vez más. Lo mejor para cambiar el año nuevo.
+
 # Deutsch
 Die Benutzung ist einfach.
 
