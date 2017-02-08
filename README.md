@@ -15,7 +15,7 @@ __Note:__ After entering the period, the calendar has to be updated again. Best 
 # Español
 Su uso es sencillo.
 
-En el **célula A1** es el año. Cambiar este año y el botón <<ENTER>>. Los cambios en el calendario de acuerdo con las revelaciones
+En el **célula A1** es el año. Cambiar este año y el botón << ENTER >>. Los cambios en el calendario de acuerdo con las revelaciones
 
 Si usted quiere tener los días festivos o vacaciones marcados en color, por lo que puede especificar en carpeta "Urlaubstage". Este período se mostrará automáticamente en el calendario.
 
@@ -24,7 +24,7 @@ __Nota:__ Después de introducir los datos, el calendario tiene que ser actualiz
 # Deutsch
 Die Benutzung ist einfach.
 
-Im **Feld A1** steht das Jahr. Dieses Jahr ändern und <<ENTER>> drücken. Dann ändert sich der Kalender entsprechend dem angegegbenen Jahr.
+Im **Feld A1** steht das Jahr. Dieses Jahr ändern und << ENTER >> drücken. Dann ändert sich der Kalender entsprechend dem angegegbenen Jahr.
 
 
 Wenn man die Ferien- oder Urlaubstage farbig markiert haben möchte, so kann man in der Mappe "Urlaubstage" die Zeispanne angeben. Diese Zeitspanne wird dann automatisch im Kalender angezeigt.
